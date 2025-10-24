@@ -17,7 +17,7 @@ This analysis helps identify which content categories, creators, and regions dri
 
 **Problem Statement:-** How can data analysis be used to uncover content trends, genre preferences, and regional patterns within Netflix’s global catalog of movies and TV shows?
 
-**Dataset:- ** https://www.kaggle.com/datasets/shivamb/netflix-shows
+**Dataset:-** https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 **Tools & Technologies**
 1. Programming Language: Python
@@ -29,3 +29,10 @@ This analysis helps identify which content categories, creators, and regions dri
 
 **Results Summary**
 This analysis highlights Netflix’s evolution from a streaming platform to a global content powerhouse. By understanding its genre trends, regional contributions, and creator preferences, businesses can better strategize future content investments and audience engagement.
+
+![image alt](https://github.com/OmPatil2806/Netflix-Content-Analysis-Exploring-Genre-Trends-Popularity-and-Global-Distribution/blob/main/Movies%20VS%20TV%20Shows.png)
+![image alt](https://github.com/OmPatil2806/Netflix-Content-Analysis-Exploring-Genre-Trends-Popularity-and-Global-Distribution/blob/main/Netflix_Wordcloud.png)
+![image alt](https://github.com/OmPatil2806/Netflix-Content-Analysis-Exploring-Genre-Trends-Popularity-and-Global-Distribution/blob/main/Number%20of%20titles%20released%20per%20year.png)
+![image alt](https://github.com/OmPatil2806/Netflix-Content-Analysis-Exploring-Genre-Trends-Popularity-and-Global-Distribution/blob/main/Top%2010%20countries%20producing%20Netflix%20Titles.png)
+![image alt](https://github.com/OmPatil2806/Netflix-Content-Analysis-Exploring-Genre-Trends-Popularity-and-Global-Distribution/blob/main/Top%20Actors%20on%20Netflix.png)
+![image alt](https://github.com/OmPatil2806/Netflix-Content-Analysis-Exploring-Genre-Trends-Popularity-and-Global-Distribution/blob/main/Top%20geners%20on%20Netflix.png)
